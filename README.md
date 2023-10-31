@@ -1,5 +1,5 @@
 # Route-Planner
-It includes a java concole app which uses Evolutionary Search Algorithm(A-star) and then also do it using Genetic Algorithm.
+It includes a java concole app which uses Evolutionary Search Algorithm (A-star) and then also do it using Genetic Algorithm.
 
 Firstly, Evolutionary search is used for getting euclideance distance between two coordinates given by user and its generated path length is recorded.
 Then Genetic Algorithm is used to generate shortest path.  
